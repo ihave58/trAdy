@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PT Sans';
+    src: url('../../assets/fonts/PTSans-Regular.woff2') format('woff2'), url('../../assets/fonts/PTSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PT Serif';
+    src: url('../../assets/fonts/PTSerif-Regular.woff2') format('woff2'), url('../../assets/fonts/PTSerif-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}

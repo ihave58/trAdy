@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--body-bg-color);
+    font-family: var(--font-serif);
+    font-size: responsive var(--body-font-size-range);
+    font-range: var(--body-font-range);
+    letter-spacing: 0.02rem;
+    line-height: 1.25;
+    color: var(--body-font-color);
+    padding: 1rem;
+    margin: 0;
+}
+
+a {
+    color: var(--anchor-font-color);
+    transition: color 200ms ease;
+
+    &:hover {
+        color: var(--anchor-hover-font-color);
+    }
+}
+
+input,
+button {
+    font-family: var(--font-serif);
+}

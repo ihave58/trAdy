@@ -1,0 +1,6 @@
+@import "../../commons/styles/reset.css";
+@import "../../commons/styles/fonts.css";
+
+.app {
+    font-size: 15px;
+}

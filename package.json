@@ -1,0 +1,87 @@
+{
+    "name": "TrAdy",
+    "version": "0.0.1",
+    "author": "Aaditya Kumar <ihave58@yahoo.com>",
+    "contributors": [
+        {
+            "name": "Aaditya Kumar",
+            "email": "ihave58@yahoo.com",
+            "url": "https://github.com/ihave58"
+        }
+    ],
+    "config": {
+        "apiKey": "p154m18lxits6gm4",
+        "port": 3000
+    },
+    "description": "",
+    "homepage": "",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ihave58/"
+    },
+    "engines": {
+        "node": ">=8.9.3"
+    },
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon index.js",
+        "dev:start": "webpack-dev-server --config ./webpack/webpack.config.dev.js"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "devDependencies": {
+        "@babel/core": "^7.0.0-beta.49",
+        "@babel/plugin-proposal-object-rest-spread": "^7.0.0-beta.49",
+        "@babel/preset-env": "^7.0.0-beta.49",
+        "@babel/preset-react": "^7.0.0-beta.49",
+        "@babel/register": "^7.0.0-beta.49",
+        "assign-deep": "^0.4.7",
+        "babel-eslint": "^8.2.3",
+        "babel-loader": "^8.0.0-beta.3",
+        "body-parser": "^1.18.3",
+        "caniuse-lite": "^1.0.30000824",
+        "classnames": "^2.2.5",
+        "clean-webpack-plugin": "^0.1.19",
+        "cookie-parser": "^1.4.3",
+        "copy-webpack-plugin": "^4.5.1",
+        "css-loader": "^0.28.11",
+        "cssnano": "^3.10.0",
+        "eslint": "^4.19.1",
+        "eslint-config-airbnb-base": "^12.1.0",
+        "eslint-loader": "^2.0.0",
+        "eslint-plugin-import": "^2.10.0",
+        "eslint-plugin-jsx-a11y": "^6.0.3",
+        "eslint-plugin-react": "^7.7.0",
+        "express-session": "^1.15.6",
+        "file-loader": "^1.1.11",
+        "html-loader": "^0.5.5",
+        "html-webpack-plugin": "^3.2.0",
+        "loader-utils": "^1.1.0",
+        "mini-css-extract-plugin": "^0.4.0",
+        "node-sass": "^4.8.3",
+        "nodemon": "^1.17.5",
+        "postcss": "^6.0.21",
+        "postcss-cssnext": "^3.1.0",
+        "postcss-import": "^11.1.0",
+        "postcss-loader": "^2.1.2",
+        "postcss-nested": "^3.0.0",
+        "postcss-remove-root": "0.0.2",
+        "postcss-responsive-type": "^1.0.0",
+        "react": "^16.4.0",
+        "react-dom": "^16.4.0",
+        "sass-loader": "^6.0.7",
+        "style-loader": "^0.20.3",
+        "stylelint": "^9.2.0",
+        "stylelint-config-standard": "^18.2.0",
+        "url-loader": "^1.0.1",
+        "webpack": "^4.5.0",
+        "webpack-cli": "^2.0.14",
+        "webpack-dev-server": "^3.1.4",
+        "webpack-merge": "^4.1.2",
+        "write-file-webpack-plugin": "^4.3.2"
+    },
+    "dependencies": {
+        "express": "^4.16.3",
+        "kiteconnect": "^3.0.0"
+    }
+}

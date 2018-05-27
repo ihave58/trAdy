@@ -1,0 +1,142 @@
+[
+    {
+        "sellerName": "ABC",
+        "sellerRating": 10,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 10
+    },
+    {
+        "sellerName": "MDS",
+        "sellerRating": 20,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 20
+    },
+    {
+        "sellerName": "GHJ",
+        "sellerRating": 40,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 30
+    },
+    {
+        "sellerName": "KJH",
+        "sellerRating": 30,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 40
+    },
+    {
+        "sellerName": "UIT",
+        "sellerRating": 15,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 50
+    },
+    {
+        "sellerName": "WES",
+        "sellerRating": 90,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 60
+    },
+    {
+        "sellerName": "QAW",
+        "sellerRating": 60,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 70
+    },
+    {
+        "sellerName": "RTE",
+        "sellerRating": 40,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 80
+    },
+    {
+        "sellerName": "SDF",
+        "sellerRating": 20,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 90
+    },
+    {
+        "sellerName": "XCD",
+        "sellerRating": 80,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 100
+    },
+    {
+        "sellerName": "OIU",
+        "sellerRating": 45,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 110
+    },
+    {
+        "sellerName": "POI",
+        "sellerRating": 35,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 120
+    },
+    {
+        "sellerName": "ASW",
+        "sellerRating": 100,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 130
+    },
+    {
+        "sellerName": "BVD",
+        "sellerRating": 75,
+        "deliveryTime": {
+            "start": 2,
+            "end": 5
+        },
+        "deliveryCharge": 10,
+        "price": 140
+    }
+]
